@@ -39,8 +39,8 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Game(modifier: Modifier = Modifier) {
 
-
     Player("Computer")
+    Player("Player")
 }
 
 
